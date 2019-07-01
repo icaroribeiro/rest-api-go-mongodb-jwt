@@ -1,4 +1,4 @@
 {
-  "ip": "localhost",
-  "database": "mydb2"
+  "ip": "127.0.0.1",
+  "database": "mymongodb"
 }
